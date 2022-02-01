@@ -1,0 +1,38 @@
+ 1: We are going to implement acceleration, velocity, braking, slowing down, changing the angle of the car, and determining
+    horizontal and vertical displacement of this car based on its angle.
+    (1): Loading images
+    (2): Creating the Pygame window
+    (3): Display images
+    (4): Resizing images
+    (5): Rotating the car
+    (6): Key presses and turning
+    (7): Acceleration and velocity
+    (8): Moving the car by an angle
+    (9): Slowing down the car
+
+2: Pixel Perfect Collision
+    (1): Moving the car backwards
+    (2): Mask: mask is an array of values, representing whether or not a pixel in an image is transparent or present.
+            With mask, we can simply check if pixels that are not transparent or overlapping in two rectangle regions.
+    (3): Collision with the Track
+    (4): Handel the hitting with the wall --> bounce
+    (5): Adding the finish line
+    (6): Collision with the finish line
+
+
+3: Computer Car And Path Following
+    (1): Create the computer car
+    (2): Create a Path
+    (3): Path following explanation --> Moving the computer car towards these points.
+    (4): Computer Collision with finish line
+
+
+4: Levels, Main Menu and Finishing Touches
+    (1): Create the game info class
+    (2): Drawing text
+    (3): Starting levels / main menu
+    (4): Level stats and info text
+    (5): Increasing computer car's speed
+    (6): Handling winning the game
+    
+     
